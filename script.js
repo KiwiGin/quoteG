@@ -1,1 +1,1 @@
-console.log('tumama')
+//Get Quotes from API
